@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+scipy
+scikit-learn
+joblib
+nltk
+wordcloud
+textblob
+torch
+transformers
+sentencepiece
+sacremoses
